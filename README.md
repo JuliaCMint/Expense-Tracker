@@ -16,5 +16,4 @@ https://monthly-expense-tracker-app.netlify.app/
 
 #### PREVIEW
 
-![Expense-tracker-calendar](https://github.com/JuliaCMint/Expense-Tracker/assets/105377899/2d2faf04-e2e4-4b22-ab1b-d93c73992b79)
-
+![Expense-tracker-calendar](https://github.com/JuliaCMint/Expense-Tracker/assets/105377899/d1bd3d44-6f71-46d8-a5ef-d9e7f16bcac7)
